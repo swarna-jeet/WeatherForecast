@@ -7,7 +7,7 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 public class WeatherApp {
     public static void main(String[] args) throws Exception{
-        String Api= "0046b87ad423f0f49bd80bceecd549ed";
+        String Api= "";
 
         Scanner sc = new Scanner(System.in);
         System.out.print("city- ");
